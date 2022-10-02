@@ -1,3 +1,23 @@
-# Default ignored files
-/shelf/
-/workspace.xml
+#Compiled Class File
+*.class
+
+#Log file
+.*log
+
+#BlueJ Files
+*.ctxt
+
+#Mobile Tolls for Java
+.mtj.tmp/
+
+#Package Files #
+*.jar
+*.wqr
+*.nar
+*.eaqr
+*.zip
+*tar.gz
+*.rar
+
+#virtual machine crash logs
+*.idea
